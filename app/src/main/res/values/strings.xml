@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="correct_text">Correct!!</string>
+    <string name="incorrect_text">Incorrect!!!</string>
+    <string name="correct_toast_message">Pintar!</string>
+    <string name="incorrect_text_message">BODOH!!</string>
+
+    <string name="q1">A honey bee can fly at 15mph</string>
+    <string name="q2">Slugs have four nose</string>
+    <string name="q3">Camels have three eyelids</string>
+    <string name="q4">A bee has five eyelids</string>
+    <string name="q5">All porcupines float in water</string>
+    <string name="q6">Fish have eyelids</string>
+    <string name="q7">Fish cough</string>
+    <string name="q8">Giraffe have no vocal cords</string>
+    <string name="q9">Cats can hear ultrasound</string>
+    <string name="q10">Pigs can get sunburn</string>
+</resources>
